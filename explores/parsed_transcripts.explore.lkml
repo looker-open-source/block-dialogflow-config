@@ -1,4 +1,4 @@
-include: "views/*.view"
+include: "/views/*.view"
 
 explore: parsed_transcripts_config {
   extension: required
